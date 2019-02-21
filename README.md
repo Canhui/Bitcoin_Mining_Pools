@@ -2,7 +2,7 @@
 Measurements and Analysis on Major Bitcoin Mining Pools
 
 
-## 1. MiningPool()
+## 1. The `MiningPool()` Function
 
 <br />
 
@@ -24,7 +24,7 @@ Input
 $ python MiningPool.py 502310 543698
 ```
 
-<br />
+
 
 Output
 
