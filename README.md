@@ -45,4 +45,4 @@ Output
 
 **2.1. Description**
 
-TO DO
+In order to solve the inconsistent problem of system clock, ba la ba la...(TO DO)
