@@ -1,6 +1,7 @@
 # Bitcoin_Mining_Pools
 Measurements and Analysis on Major Bitcoin Mining Pools
 
+<br />
 
 ## 1. The `MiningPool()` Function
 
@@ -36,11 +37,12 @@ Output
 
 
 <br />
+<br />
 
 ## 2. The `BlockTime()` Function
 
 <br />
 
-**2.1. Description**\
+**2.1. Description**
 
 TO DO
