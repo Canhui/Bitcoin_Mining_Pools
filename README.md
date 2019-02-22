@@ -33,3 +33,14 @@ Output
 | 502310 | ViaBTC |
 | ... | ... |
 | 543698 | F2Pool |
+
+
+<br />
+
+## 2. The `BlockTime()` Function
+
+<br />
+
+**2.1. Description**\
+
+TO DO
