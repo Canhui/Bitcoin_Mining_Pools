@@ -51,3 +51,7 @@ In order to solve the inconsistent problem of system clock, ba la ba la...(TO DO
 
 ## 3. Presentation Slide
 The presentation slide is available here： https://github.com/Canhui/Bitcoin_Mining_Pools/blob/master/presentation_BIGCOM2020_July_25_2020.pdf
+
+<br>
+
+## 4. Maintenance Log
