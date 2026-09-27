@@ -1,6 +1,6 @@
 ### 1. Online Source Code for the Paper
 
-## [*Measurement and Analysis of the Bitcoin Networks: A View from Mining Pools*](https://ieeexplore.ieee.org/document/9160462)
+#### [*Measurement and Analysis of the Bitcoin Networks: A View from Mining Pools*](https://ieeexplore.ieee.org/document/9160462)
 
 by Canhui Wang, Xiaowen Chu, Yang Qin 
 
