@@ -42,7 +42,7 @@ Output
 
 #### 3.1. Description
 
-In order to solve the inconsistent problem of system clock, (TO DO)
+In order to solve the inconsistent problem of system clock, (TO DO).
 
 &nbsp; 
 
